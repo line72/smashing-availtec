@@ -6,6 +6,8 @@ https://github.com/line72/smashing-availtec
 
 Smashing-Availtec is licensed under the terms of the MIT license.
 
+![Screenshot](/screenshot.png?raw=true "Real time Bus Arrivals for Smashing")
+
 ## About
 
 This is a widget for the [Smashing
